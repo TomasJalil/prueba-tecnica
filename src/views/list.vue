@@ -18,7 +18,6 @@
             <Popup  :pokemon="getSelectedPokemon" :isVisible="isVisible" @close="isVisible = false" @setFav="setFav" ></Popup>
 
         </div> 
-     
         <footer>
     <div v-if="!showError" class="footerContainer">
         <button 
