@@ -55,4 +55,20 @@ button{
   font-weight: 500;
   font-style: normal;
 }
+@media screen and (max-width: 768px) {
+  .imgPikachu{
+    width: 300px;
+    height: 250px;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
+  p{
+    font-size: 1em;
+  }
+  button{
+    font-size: 1em;
+  }
+  
+}
 </style>
