@@ -235,7 +235,6 @@ button.active {
 }
 button.activeHome {
     background-color: #f44336; 
-    width: 20vw;
 }
 
 img{
